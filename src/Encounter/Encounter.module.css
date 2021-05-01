@@ -1,0 +1,25 @@
+.encounterField{
+  width: 400px;
+  margin: 10px auto;
+  height: 150px;
+  border: 5px solid #008CBA;
+  border-radius: 10px;
+}
+
+.encounter{
+  margin: 20px auto;
+  width: 50px;
+  padding: 10px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 40px;
+}
+.encounterRed{
+  margin: 20px auto;
+  width: 50px;
+  padding: 10px;
+  color: #f44336;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 40px;
+
+
+}

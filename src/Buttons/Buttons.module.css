@@ -1,0 +1,70 @@
+.buttonsField{
+  width: 500px;
+  margin: 10px auto;
+  height: 100px;
+}
+
+.buttons{
+  margin: 20px auto;
+  width: 380px;
+  border: 5px solid #008CBA;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+}
+
+.inc{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.reset{
+  background-color: #f44336; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 150px;
+}
+
+button[disabled]{
+  background-color: #EBEBE4;
+
+}
+
+
+.disabledInc{
+  background-color: #EBEBE4; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.disabledReset{
+  background-color: #EBEBE4; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 150px;
+}
+
+
